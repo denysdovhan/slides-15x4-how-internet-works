@@ -20,10 +20,10 @@
 
 .what-is-bash__link {
   margin-top: 1em !important;
+}
 
-  code {
-    font-size: 0.75em;
-  }
+.what-is-bash__link code {
+  font-size: 0.75em;
 }
 
 .about-me img {
