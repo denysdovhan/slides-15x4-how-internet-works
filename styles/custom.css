@@ -18,16 +18,29 @@
     font-weight: normal;
 }
 
-.what-is-bash__link {
+.title__link {
   margin-top: 1em !important;
 }
 
-.what-is-bash__link code {
+.title__link code {
   font-size: 0.75em;
 }
 
-.about-me img {
-  width: 25%;
-  height: 25%;
-  border-radius: 50%;
+.nobody-knows h2 {
+  margin-bottom: 2rem;
+}
+
+.tim-berners h2 {
+  text-align: left;
+  color: white;
+}
+.tim-berners p {
+  color: white;
+  text-align: left;
+}
+
+.schemas section img {
+  border: 0px;
+  box-shadow: none;
+  max-height: 600px;
 }
