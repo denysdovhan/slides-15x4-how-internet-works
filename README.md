@@ -13,5 +13,9 @@ There are few gulp tasks:
 
 The tasks work for `npm` as well.
 
+## License
+
+MIT © [Denys Dovhan](http://denysdovhan.com)
+
 [travis-url]: https://travis-ci.org/denysdovhan/slides-15x4-how-internet-works
 [travis-image]: https://img.shields.io/travis/denysdovhan/slides-15x4-how-internet-works.svg?style=flat-square
